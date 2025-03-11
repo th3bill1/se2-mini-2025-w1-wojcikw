@@ -12,7 +12,7 @@ jobs:
 
     runs-on: windows-latest
     env:
-      Solution_Name: LongConversion                     
+      Solution_Name: SE2                     
     steps:
     - name: Checkout
       uses: actions/checkout@v4
